@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm currently studying at 42 School in Paris. 
+I am working part-time as a Data Analyst at Jacquemus' Customer Care department.
+
 <!--
 **semx2a/semx2a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
