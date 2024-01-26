@@ -1,12 +1,14 @@
-## Hi there 👋
+Hey! I'm Semiha, a [`42 school`](https://42.fr/) student in Paris. I am currently looking for a job or internship in data science and machine learning. 
 
-I am Semiha, a 42 student in Paris. I am currently looking for a job or internship in data science and machine learning. To achieve that, I am currently learning Python with a focus on data science and linear regression.
+To achieve that, I am currently learning `Python` with a focus on **data science** and **linear regression**.
 
-I am also interested in embedded systems and looking to dive more into it in the near future. Feel free to contact me if you have any questions or just want to chat! 💜
+I am also interested in **embedded systems** and looking to dive into it more in the near future.
 
-### School projects
+ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/semiha-beyazkilic/) if you have any questions or just want to chat! 💜
 
-Below are my school projects. 42 common core projects are mostly in C/C++/Shell. I came accross other languages along the way like SQL, PHP, Python, Javascript and Typescript.
+### School projects 🎒
+
+Below are my school projects. `42 school` [common core projects]((https://42.fr/en/the-program/innovative-learning/)) are mostly C, C++ and Shell. I came accross other languages along the way like SQL, PHP, Python, Javascript and Typescript.
 
 | Project | Description | Languages/Frameworks | Grade |
 | --- | --- | --- | --- |
@@ -25,3 +27,4 @@ Below are my school projects. 42 common core projects are mostly in C/C++/Shell.
 | [inception](https://github.com/semx2a/inception) | Introduction to virtualization | Shell, Docker, Wordpress, Mariadb, PHP | 100/100 |
 | [webserv](https://github.com/semx2a/webserv) | HTTP/1.1 server | C++ | 125/100 |
 | [ft_transcendence](https://github.com/TheoZerbibi/ft_transcendence) | Web application | Typescript, Nest.js, Vue.js, Vuetify, Socket.io, Redis, P5.js, PostgreSQL, Prisma, Pinia, Vite | 100/100 |
+
