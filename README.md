@@ -1,3 +1,7 @@
+# ░░░░░░░░░░░░░░░✶❩⪦⦑⟢ 𝔰𝔢𝔪𝔵𝟐𝔞 ⟣⦒⪧❨✶░░░░░░░░░░░░░░░
+
+
+
 ## A little bit about me 🔮
 
 Hey! I'm Semiha, a [`42 school`](https://42.fr/) student in Paris. I am currently looking for a job or internship in data science and machine learning.
@@ -12,7 +16,7 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/semiha-beyazki
 
 ### School projects 🎒
 
-Below are my school projects. `42 school` [common core projects]((https://42.fr/en/the-program/innovative-learning/)) are mostly C, C++ and Shell. I came accross other languages along the way like SQL, PHP, Python, Javascript and Typescript.
+Below are my school projects. `42 school` [common core projects]((https://42.fr/en/the-program/innovative-learning/)) are mostly C, C++ and Shell. I came accross other languages along the way like SQL, PHP, Python, HTML, CSS, Javascript and Typescript.
 
 | Project | Description | Languages/Frameworks | Grade |
 | --- | --- | --- | --- |
