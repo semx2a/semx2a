@@ -1,10 +1,14 @@
-Hey! I'm Semiha, a [`42 school`](https://42.fr/) student in Paris. I am currently looking for a job or internship in data science and machine learning. 
+## A little bit about me 🔮
+
+Hey! I'm Semiha, a [`42 school`](https://42.fr/) student in Paris. I am currently looking for a job or internship in data science and machine learning.
 
 To achieve that, I am currently learning `Python` with a focus on **data science** and **linear regression**.
 
 I am also interested in **embedded systems** and looking to dive into it more in the near future.
 
- Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/semiha-beyazkilic/) if you have any questions or just want to chat! 💜
+My background is in **arts** and **design thinking**. I have a bachelor's degree in **fashion design** and a master's degree in **fashion art direction**. I have worked as a **designer** and **communications manager** for 5 years before deciding to change my career path.
+
+Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/semiha-beyazkilic/) if you have any questions or just want to chat! 💜
 
 ### School projects 🎒
 
