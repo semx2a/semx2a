@@ -14,15 +14,15 @@ My background is in **arts** and **design thinking**. I have a bachelor's degree
 
 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/semiha-beyazkilic/) if you have any questions or just want to chat! 💜
 
-## My values
+## My values 🌟
 
-Beginner's mindset and curiosity
+🌱 Beginner's mindset and curiosity
 
-Perfection is a goal, not the end result
+🏹 Perfection is a goal, not the end result
 
-Listen to others and be open to feedback
+📝 Listen to others and be open to feedback
 
-## How I work
+## How I work 💻
 
 I am a very organized person and I like to plan ahead. I like to have a clear idea of what I am doing and where I am going. I am aware that this can both be a strength and a weakness depending on the context. I am very good at planning and organizing projects but I can also get stuck in the planning phase and not get anything done.
 
@@ -30,14 +30,19 @@ I am improving along every project and I am learning to find the right balance. 
 
 I am also very curious and I like to hear about new ideas, and see problems through many angles. This comes from my background in design thinking and a keen interest in sociology.
 
-
 I am a very visual person and I like to have a clear visual representation of my work. I like to use `Trello` to organize my tasks and I like to use `Figma` to create mockups and wireframes.
 
 ## School projects 🎒
 
 Below are my school projects. `42 school` [common core projects]((https://42.fr/en/the-program/innovative-learning/)) are mostly C, C++ and Shell. I came accross other languages along the way like SQL, PHP, Python, HTML, CSS, Javascript and Typescript.
 
-I enjoyed working on these projects a lot, I loved learning about low level programming and I have a special place in my heart for C. I also enjoyed learning about web development but I think data science and machine learning is more my scene. I am also passionate about embedded systems and robotics.
+I enjoyed working on these projects a lot, I loved learning about low level programming and I have a special place in my heart for C. I also enjoyed learning about web development, but I think data science and machine learning is more my scene. I am also passionate about embedded systems and robotics.
+
+The projects I am most proud of, because of their complexity and the amount of work I put into them, and the amount of knowledge I gained from them, are:
+
+- `push_swap` is a sorting algorithm in C. It is a very efficient algorithm that can sort a list of up to 500 numbers in less than 5500 operations.
+- `webserv` is a HTTP/1.1 server in C++98 that I made with an other student. It is a fully functional web server that can handle multiple clients at the same time.
+- `ft_transcendence` is a web application that I made with 4 other students. It is a multiplayer pong game complete with a chat and a ranking system.
 
 | Project | Description | Languages/Frameworks | Grade |
 | --- | --- | --- | --- |
