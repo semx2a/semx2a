@@ -1,4 +1,6 @@
-<h1 align='center'>░░░░ ✶❩⪦⦑⟢ 𝔰𝔢𝔪𝔵𝟐𝔞 ⟣⦒⪧❨✶ ░░░░<h1/>
+<!-- <h1 align='center'>░░░░ ✶❩⪦⦑⟢ 𝔰𝔢𝔪𝔵𝟐𝔞 ⟣⦒⪧❨✶ ░░░░<h1/> -->
+
+# `$ ~/github/semx2a > man about`
 
 ## A little bit about me 🔮
 
@@ -12,7 +14,17 @@ My background is in **arts** and **design thinking**. I have a bachelor's degree
 
 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/semiha-beyazkilic/) if you have any questions or just want to chat! 💜
 
-### School projects 🎒
+## My values
+
+Beginner's mindset and curiosity
+Perfection is a goal, not the end result
+Sharing knowledge
+
+
+## How I work
+
+
+## School projects 🎒
 
 Below are my school projects. `42 school` [common core projects]((https://42.fr/en/the-program/innovative-learning/)) are mostly C, C++ and Shell. I came accross other languages along the way like SQL, PHP, Python, HTML, CSS, Javascript and Typescript.
 
@@ -27,7 +39,7 @@ Below are my school projects. `42 school` [common core projects]((https://42.fr/
 | [FdF](https://github.com/semx2a/FdF) | 3D wireframe representation of a map | C | 115/100 |
 | [philosophers](https://github.com/semx2a/philosophers) | Dining philosophers problem | C | 100/100 |
 | [minishell](https://github.com/semx2a/minishell) | Reproduction of bash | C | 100/100 |
-| NetPractice | Introduction to network administration | Shell | 100/100 |
+| NetPractice | Introduction to network administration | Interactive html IP router game | 100/100 |
 | [cub3D](https://github.com/semx2a/cub3D) | Raycasting engine | C | 105/100 |
 | [cpp_modules](https://github.com/semx2a/cpp_modules) | C++98 introduction | C++ | 100/100 |
 | [inception](https://github.com/semx2a/inception) | Introduction to virtualization | Shell, Docker, Wordpress, Mariadb, PHP | 100/100 |
