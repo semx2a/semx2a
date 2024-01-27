@@ -17,16 +17,27 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/semiha-beyazki
 ## My values
 
 Beginner's mindset and curiosity
-Perfection is a goal, not the end result
-Sharing knowledge
 
+Perfection is a goal, not the end result
+
+Listen to others and be open to feedback
 
 ## How I work
 
+I am a very organized person and I like to plan ahead. I like to have a clear idea of what I am doing and where I am going. I am aware that this can both be a strength and a weakness depending on the context. I am very good at planning and organizing projects but I can also get stuck in the planning phase and not get anything done.
+
+I am improving along every project and I am learning to find the right balance. One way is to break down my projects into smaller tasks and to set deadlines for each task. Another is to simpy start writing code and see where it takes me.
+
+I am also very curious and I like to hear about new ideas, and see problems through many angles. This comes from my background in design thinking and a keen interest in sociology.
+
+
+I am a very visual person and I like to have a clear visual representation of my work. I like to use `Trello` to organize my tasks and I like to use `Figma` to create mockups and wireframes.
 
 ## School projects 🎒
 
 Below are my school projects. `42 school` [common core projects]((https://42.fr/en/the-program/innovative-learning/)) are mostly C, C++ and Shell. I came accross other languages along the way like SQL, PHP, Python, HTML, CSS, Javascript and Typescript.
+
+I enjoyed working on these projects a lot, I loved learning about low level programming and I have a special place in my heart for C. I also enjoyed learning about web development but I think data science and machine learning is more my scene. I am also passionate about embedded systems and robotics.
 
 | Project | Description | Languages/Frameworks | Grade |
 | --- | --- | --- | --- |
@@ -45,4 +56,3 @@ Below are my school projects. `42 school` [common core projects]((https://42.fr/
 | [inception](https://github.com/semx2a/inception) | Introduction to virtualization | Shell, Docker, Wordpress, Mariadb, PHP | 100/100 |
 | [webserv](https://github.com/semx2a/webserv) | HTTP/1.1 server | C++ | 125/100 |
 | [ft_transcendence](https://github.com/TheoZerbibi/ft_transcendence) | Web application | Typescript, Nest.js, Vue.js, Vuetify, Socket.io, Redis, P5.js, PostgreSQL, Prisma, Pinia, Vite | 100/100 |
-
