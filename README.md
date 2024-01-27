@@ -24,9 +24,9 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/semiha-beyazki
 
 ## How I work 💻
 
-I am a very organized person and I like to plan ahead. I like to have a clear idea of what I am doing and where I am going. I am aware that this can both be a strength and a weakness depending on the context. I am very good at planning and organizing projects but I can also get stuck in the planning phase and not get anything done.
+I am a very organized person and I like to plan ahead. I like to have a clear idea of what I am doing and where I am going. I am aware that this can both be a strength and a weakness depending on the context. I am very good at planning and organizing projects but I can also feel stuck in the planning phase.
 
-I am improving along every project and I am learning to find the right balance. One way is to break down my projects into smaller tasks and to set deadlines for each task. Another is to simpy start writing code and see where it takes me.
+Thankfully, I am improving along every project and I am learning to find the right balance. One way is to break down my projects into smaller tasks and to set deadlines for each task. Another is to simpy start writing code and see where it takes me.
 
 I am also very curious and I like to hear about new ideas, and see problems through many angles. This comes from my background in design thinking and a keen interest in sociology.
 
