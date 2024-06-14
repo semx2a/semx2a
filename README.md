@@ -61,3 +61,4 @@ The projects I am most proud of, because of their complexity and the amount of w
 | [inception](https://github.com/semx2a/inception) | Introduction to virtualization | Shell, Docker, Wordpress, Mariadb, PHP | 100/100 |
 | [webserv](https://github.com/semx2a/webserv) | HTTP/1.1 server | C++ | 125/100 |
 | [ft_transcendence](https://github.com/TheoZerbibi/ft_transcendence) | Web application | Typescript, Nest.js, Vue.js, Vuetify, Socket.io, Redis, P5.js, PostgreSQL, Prisma, Pinia, Vite | 100/100 |
+| [piscine-python](https://github.com/semx2a/piscine-python) | Python learning program | Python 3.10 | Curr |
