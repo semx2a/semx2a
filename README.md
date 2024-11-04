@@ -8,13 +8,13 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/semiha-beyazki
 
 ## Stats
 
-<a>
+<a href="https://badge.nimon.fr/api/v2/cm332wq3z4231201pfp8b7mo7c/stats?cursusId=21&coalitionId=48">
 	<img align="center" height="200" width="400" src="https://badge.nimon.fr/api/v2/cm332wq3z4231201pfp8b7mo7c/stats?cursusId=21&coalitionId=48"/>
 </a>
 <a href="https://github-readme-stats-semx2a.vercel.app/api/top-langs/?username=semx2a&layout=compact&theme=dracula">
 	<img align="center" height="160" width="400" src="https://github-readme-stats-semx2a.vercel.app/api/top-langs/?username=semx2a&layout=compact&theme=dracula"/>
 </a>
-<a>
+<a href="https://github-readme-stats-semx2a.vercel.app/api?username=semx2a&show_icons=true&theme=dracula">
 	<img align="center" height="160" width="400" src="https://github-readme-stats-semx2a.vercel.app/api?username=semx2a&show_icons=true&theme=dracula"/>
 </a>
 
