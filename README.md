@@ -8,7 +8,7 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/semiha-beyazki
 
 ## Stats
 
-<a href="https://github.com/Nimon77/badge42">
+<a>
 	<img align="center" height="200" width="400" src="https://badge.nimon.fr/api/v2/cm332wq3z4231201pfp8b7mo7c/stats?cursusId=21&coalitionId=48"/>
 </a>
 <a href="https://github-readme-stats-semx2a.vercel.app/api/top-langs/?username=semx2a&layout=compact&theme=dracula">
