@@ -41,7 +41,7 @@ The projects I am most proud of, because of their complexity and the amount of w
 
 <table>
 <tr>
-	<td colspan=2><a href="https://badge.nimon.fr/api/v2/cm332wq3z4231201pfp8b7mo7c/stats?cursusId=21&coalitionId=48">
+	<td colspan=2 align="center"><a href="https://badge.nimon.fr/api/v2/cm332wq3z4231201pfp8b7mo7c/stats?cursusId=21&coalitionId=48">
 	<img align="center" height="200" width="400" src="https://badge.nimon.fr/api/v2/cm332wq3z4231201pfp8b7mo7c/stats?cursusId=21&coalitionId=48"/></a></td>
 </tr>
 <tr>
