@@ -1,9 +1,3 @@
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
 # `$ ~/github/semx2a > man about`
 
 ## A little bit about me 🔮
