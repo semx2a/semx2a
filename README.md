@@ -7,24 +7,30 @@ Hey! I'm Semiha, a [`42 Paris`](https://42.fr/) student. I am currently looking 
 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/semiha-beyazkilic/) if you have any questions or just want to chat! 💜
 
 ## Stats
-<table>
-  <tr>
-    <td valign="center" text_align="center"><a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm332wq3z4231201pfp8b7mo7c/stats?cursusId=21&coalitionId=48" alt="seozcan's 42 stats" /></a></td>
-  </tr>
-</table>
+
+<a href="https://github.com/Nimon77/badge42">
+	<img align="center" height="200" width="400" src="https://badge.nimon.fr/api/v2/cm332wq3z4231201pfp8b7mo7c/stats?cursusId=21&coalitionId=48"/>
+</a>
+<a href="https://github-readme-stats-semx2a.vercel.app/api/top-langs/?username=semx2a&layout=compact&theme=dracula">
+	<img align="center" height="160" width="400" src="https://github-readme-stats-semx2a.vercel.app/api/top-langs/?username=semx2a&layout=compact&theme=dracula"/>
+</a>
+<a>
+	<img align="center" height="160" width="400" src="https://github-readme-stats-semx2a.vercel.app/api?username=semx2a&show_icons=true&theme=dracula"/>
+</a>
+
 
 
 ## School projects 🎒
 
 Below are my school projects. `42 school` [common core projects]((https://42.fr/en/the-program/innovative-learning/)) are mostly C, C++ and Shell. I came accross other languages along the way like SQL, PHP, Python, HTML, CSS, Javascript and Typescript.
 
-I enjoyed working on these projects a lot, I loved learning about low level programming and I have a special place in my heart for C. I also enjoyed learning about web development, but I think data science and machine learning is more my scene. I am also passionate about embedded systems and robotics.
+I enjoyed working on these projects a lot, I loved learning about low level programming and I have a special place in my heart for C. I also enjoyed learning about web development and I am passionate about embedded systems and robotics.
 
 The projects I am most proud of, because of their complexity and the amount of work I put into them, and the amount of knowledge I gained from them, are:
 
-- `push_swap` is a sorting algorithm in C. It is a very efficient algorithm that can sort a list of up to 500 numbers in less than 5500 operations.
-- `webserv` is a HTTP/1.1 server in C++98 that I made with an other student. It is a fully functional web server that can handle multiple clients at the same time.
-- `ft_transcendence` is a web application that I made with 4 other students. It is a multiplayer pong game complete with a chat and a ranking system.
+- [`push_swap`](https://github.com/semx2a/push_swap) is a sorting algorithm in C. It is a very efficient algorithm that can sort a list of up to 500 numbers in less than 5500 operations.
+- [`webserv`](https://github.com/semx2a/webserv) is a HTTP/1.1 server in C++98 that I made with an other student. It is a fully functional web server that can handle multiple clients at the same time.
+- [`ft_transcendence`](https://github.com/semx2a/ft_transcendence) is a web application that I made with 4 other students. It is a multiplayer pong game complete with a chat and a ranking system.
 
 | Project | Description | Languages/Frameworks | Grade |
 | --- | --- | --- | --- |
