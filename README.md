@@ -11,7 +11,7 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/semiha-beyazki
 ## Stats
 <table>
   <tr>
-    <td valign="top"><a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm332wq3z4231201pfp8b7mo7c/stats?cursusId=21&coalitionId=48" alt="seozcan's 42 stats" /></a></td>
+    <td valign="center"><a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm332wq3z4231201pfp8b7mo7c/stats?cursusId=21&coalitionId=48" alt="seozcan's 42 stats" /></a></td>
   </tr>
 </table>
 
