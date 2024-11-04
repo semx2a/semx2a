@@ -4,33 +4,17 @@
 
 ## A little bit about me 🔮
 
-Hey! I'm Semiha, a [`42 school`](https://42.fr/) student in Paris. I am currently looking for a job or internship in data science and machine learning.
-
-To achieve that, I am currently learning `Python` with a focus on **data science** and **linear regression**.
-
-I am also interested in **embedded systems** and looking to dive into it more in the near future.
-
-My background is in **arts** and **design thinking**. I have a bachelor's degree in **fashion design** and a master's degree in **fashion art direction**. I have worked as a **designer** and **communications manager** for 5 years before deciding to change my career path.
+Hey! I'm Semiha, a [`42 Paris`](https://42.fr/) student. I am currently looking for a job or internship in software engineering.
 
 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/semiha-beyazkilic/) if you have any questions or just want to chat! 💜
 
-## My values 🌟
+## Stats
+<table>
+  <tr>
+    <td valign="top"><a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm332wq3z4231201pfp8b7mo7c/stats?cursusId=21&coalitionId=48" alt="seozcan's 42 stats" /></a></td>
+  </tr>
+</table>
 
-🌱 Beginner's mindset and curiosity
-
-🏹 Perfection is a goal, not the end result
-
-📝 Listen to others and be open to feedback
-
-## How I work 💻
-
-I am a very organized person and I like to plan ahead. I like to have a clear idea of what I am doing and where I am going. I am aware that this can both be a strength and a weakness depending on the context. I am very good at planning and organizing projects but I can also feel stuck in the planning phase.
-
-Thankfully, I am improving along every project and I am learning to find the right balance. One way is to break down my projects into smaller tasks and to set deadlines for each task. Another is to simpy start writing code and see where it takes me.
-
-I am also very curious and I like to hear about new ideas, and see problems through many angles. This comes from my background in design thinking and a keen interest in sociology.
-
-I am a very visual person and I like to have a clear visual representation of my work. I like to use `Trello` to organize my tasks and I like to use `Figma` to create mockups and wireframes.
 
 ## School projects 🎒
 
