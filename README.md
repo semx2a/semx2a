@@ -6,20 +6,6 @@ Hey! I'm Semiha, a [`42 Paris`](https://42.fr/) student. I am currently looking 
 
 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/semiha-beyazkilic/) if you have any questions or just want to chat! 💜
 
-## Stats
-
-<a href="https://badge.nimon.fr/api/v2/cm332wq3z4231201pfp8b7mo7c/stats?cursusId=21&coalitionId=48">
-	<img align="center" height="200" width="400" src="https://badge.nimon.fr/api/v2/cm332wq3z4231201pfp8b7mo7c/stats?cursusId=21&coalitionId=48"/>
-</a>
-<a href="https://github-readme-stats-semx2a.vercel.app/api/top-langs/?username=semx2a&layout=compact&theme=dracula">
-	<img align="center" height="160" width="400" src="https://github-readme-stats-semx2a.vercel.app/api/top-langs/?username=semx2a&layout=compact&theme=dracula"/>
-</a>
-<a href="https://github-readme-stats-semx2a.vercel.app/api?username=semx2a&show_icons=true&theme=dracula">
-	<img align="center" height="160" width="400" src="https://github-readme-stats-semx2a.vercel.app/api?username=semx2a&show_icons=true&theme=dracula"/>
-</a>
-
-
-
 ## School projects 🎒
 
 Below are my school projects. `42 school` [common core projects]((https://42.fr/en/the-program/innovative-learning/)) are mostly C, C++ and Shell. I came accross other languages along the way like SQL, PHP, Python, HTML, CSS, Javascript and Typescript.
@@ -50,3 +36,16 @@ The projects I am most proud of, because of their complexity and the amount of w
 | [webserv](https://github.com/semx2a/webserv) | HTTP/1.1 server | C++ | [![seozcan's 42 webserv Score](https://badge.nimon.fr/api/v2/cm332wq3z4231201pfp8b7mo7c/project/3144407)](https://github.com/Nimon77/badge42) |
 | [ft_transcendence](https://github.com/semx2a/ft_transcendence) | Web application | Typescript, Nest.js, Vue.js, Vuetify, Socket.io, Redis, P5.js, PostgreSQL, Prisma, Pinia, Vite | [![seozcan's 42 ft_transcendence Score](https://badge.nimon.fr/api/v2/cm332wq3z4231201pfp8b7mo7c/project/3369711)](https://github.com/Nimon77/badge42) |
 | [piscine-python](https://github.com/semx2a/piscine-python) | Python learning program | Python 3.10 | [![seozcan's 42 Python for Data Science Score](https://badge.nimon.fr/api/v2/cm332wq3z4231201pfp8b7mo7c/project/3487980)](https://github.com/Nimon77/badge42) |
+
+## Stats
+
+<table>
+<tr>
+	<td><a href="https://badge.nimon.fr/api/v2/cm332wq3z4231201pfp8b7mo7c/stats?cursusId=21&coalitionId=48">
+	<img align="center" height="200" width="400" src="https://badge.nimon.fr/api/v2/cm332wq3z4231201pfp8b7mo7c/stats?cursusId=21&coalitionId=48"/></a></td>
+	<td><a href="https://github-readme-stats-semx2a.vercel.app/api/top-langs/?username=semx2a&layout=compact&theme=dracula">
+	<img align="center" height="160" width="400" src="https://github-readme-stats-semx2a.vercel.app/api/top-langs/?username=semx2a&layout=compact&theme=dracula"/></a></td>
+	<td><a href="https://github-readme-stats-semx2a.vercel.app/api?username=semx2a&show_icons=true&theme=dracula">
+	<img align="center" height="160" width="400" src="https://github-readme-stats-semx2a.vercel.app/api?username=semx2a&show_icons=true&theme=dracula"/></a></td>
+</tr>
+</table>
