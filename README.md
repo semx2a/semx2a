@@ -1,4 +1,8 @@
-<!-- <h1 align='center'>░░░░ ✶❩⪦⦑⟢ 𝔰𝔢𝔪𝔵𝟐𝔞 ⟣⦒⪧❨✶ ░░░░<h1/> -->
+<style>
+td, th {
+   border: none!important;
+}
+</style>
 
 # `$ ~/github/semx2a > man about`
 
