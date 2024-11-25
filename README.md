@@ -36,6 +36,7 @@ The projects I am most proud of, because of their complexity and the amount of w
 | [webserv](https://github.com/semx2a/webserv) | HTTP/1.1 server | C++ | [![seozcan's 42 webserv Score](https://badge.nimon.fr/api/v2/cm332wq3z4231201pfp8b7mo7c/project/3144407)](https://github.com/Nimon77/badge42) |
 | [ft_transcendence](https://github.com/semx2a/ft_transcendence) | Web application | Typescript, Nest.js, Vue.js, Vuetify, Socket.io, Redis, P5.js, PostgreSQL, Prisma, Pinia, Vite | [![seozcan's 42 ft_transcendence Score](https://badge.nimon.fr/api/v2/cm332wq3z4231201pfp8b7mo7c/project/3369711)](https://github.com/Nimon77/badge42) |
 | [piscine-python](https://github.com/semx2a/piscine-python) | Python learning program | Python 3.10 | [![seozcan's 42 Python for Data Science Score](https://badge.nimon.fr/api/v2/cm332wq3z4231201pfp8b7mo7c/project/3487980)](https://github.com/Nimon77/badge42) |
+| [ft_linear_regression](https://github.com/semx2a/ft_linear_regression) | Linear regression | Python 3.10 | [![seozcan's 42 ft_linear_regression Score](https://badge.nimon.fr/api/v2/cm332wq3z4231201pfp8b7mo7c/project/4033090)](https://github.com/Nimon77/badge42) |
 
 ## Stats
 
