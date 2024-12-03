@@ -1,4 +1,4 @@
-# `$ ~/github/semx2a > man about`
+# `$ ~/github/semx2a> man about`
 
 ## A little bit about me 🔮
 
