@@ -2,7 +2,9 @@
 
 Hey! I'm Semiha. I'm a Software Engineer and [`42 Paris`](https://42.fr/) alumni.
 
-I previously worked at [nao Labs](https://getnao.io) as a Full Stack Software Engineer where I helped develop a vscode fork for data practitionners. Our team was small (3 tech/eng 1 data) at the time so I was lucky to fiddle with the whole stack. The app stack was built with React, Typescript, Node.js, Express, Electron and Webpack. I also worked on the backend with Python and Django to serve the website and the API. I also helped improve the CI/CD pipeline. The gist of the project was to provide an AI Agent that has access to the user's database and workspace to help them with their data tasks. I also worked on the AI Agent itself, which was built with OpenAI's Python API.
+I previously worked at [nao Labs](https://getnao.io) as a Full Stack Software Engineer where I helped develop a vscode fork for data practitionners. Our team was small (3 tech/eng 1 data) at the time so I was lucky to fiddle with the whole stack. 
+
+At nao Labs, I helped build an AI-powered IDE using **React**, **Typescript**, and **Node.js** for the frontend. The backend was powered by **Python** and **Django**, serving both the website and API endpoints. The core feature was an **AI Agent** that integrates with users' databases and workspaces to assist with data tasks. I contributed to the agent's development using OpenAI's Python API and helped streamline our CI/CD pipeline.
 
 Overall I learned a lot about web development, software architecture, AI and how to work in a small team.
 
