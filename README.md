@@ -6,6 +6,6 @@ I previously worked at [nao Labs](https://getnao.io) as a Full Stack Software En
 
 At nao Labs, I helped build an AI-powered IDE using **React**, **Typescript**, and **Node.js** for the frontend. The backend was powered by **Python** and **Django**, serving both the website and API endpoints. The core feature was an **AI Agent** that integrates with users' databases and workspaces to assist with data tasks. I contributed to the agent's development using OpenAI's Python API and helped streamline our CI/CD pipeline.
 
-I am currently working at 8849 Studio in Paris, helping them build a VFX pipeline based on [Ynput's](https://ynput.io/) AYON Pipeline Platform.
+I am currently working at [8849 Studio](https://8849.io/) in Paris, helping them build a VFX pipeline based on [Ynput's](https://ynput.io/) AYON Pipeline Platform.
 
 You can reach me on [LinkedIn](https://www.linkedin.com/in/semiha-beyazkilic/) if you have any questions or just want to chat! 💜
