@@ -1,4 +1,4 @@
-### `$ man about > ~/github/semx2a`
+### `$ man about > ~/.git/semx2a`
 
 Hey! I'm Semiha. I'm a Software Engineer and [`42 Paris`](https://42.fr/) alumni.
 
